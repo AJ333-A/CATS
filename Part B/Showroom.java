@@ -1,3 +1,7 @@
+//showroom vehicle management program
+//it is a program that defines a vehicle class that stores details about a vehicle
+//it includes a constructor to initialize the attributes and a method to display them
+//Code by Joy Ashley
 import java.util.Scanner;
 
 class Vehicle {
