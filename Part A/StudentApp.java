@@ -1,4 +1,7 @@
-
+//this program defines a students record class that storess students details
+//it includes a constructor to initialize the attributes and a method to display them
+//contains main method to interact with user
+//Done by Joy Ashley Akinyi
 class StudentRecord {
     private String studentID;
     private String name;
